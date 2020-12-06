@@ -1,0 +1,762 @@
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\WebApi.dll.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\WebApi.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\WebApi.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csc.exe
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csc.exe.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csc.rsp
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csi.exe
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csi.exe.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csi.rsp
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Console.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\vbc.exe
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\vbc.rsp
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Bl.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Dto.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Dal.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Bl.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Dal.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\Dal.dll.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Cors.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Documents\FinalP\MyTurn\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\WebApi.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\WebApi.pdb
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Bl.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Dto.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Bl.pdb
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Bl.dll.config
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Dto.pdb
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Desktop\MyTurn\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\MyTurn\WebApi\obj\Debug\WebApi.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\WebApi.dll.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\WebApi.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\WebApi.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\csc.exe
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\csc.exe.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\csc.rsp
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\csi.exe
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\csi.exe.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\csi.rsp
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.AppContext.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Console.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.IO.Compression.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.IO.Pipes.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Security.AccessControl.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Security.Claims.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.ValueTuple.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\vbc.exe
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\vbc.exe.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\vbc.rsp
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Bl.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Dto.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\EntityFramework.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\EntityFramework.SqlServer.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Newtonsoft.Json.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Net.Http.Formatting.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Web.Cors.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Web.Http.Cors.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Web.Http.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Web.Http.WebHost.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Bl.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Bl.dll.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Dto.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\EntityFramework.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\EntityFramework.SqlServer.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Net.Http.Formatting.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Web.Http.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Web.Http.Cors.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Newtonsoft.Json.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\System.Web.Http.WebHost.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\obj\Debug\WebApi.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\WebApi\obj\Debug\WebApi.pdb

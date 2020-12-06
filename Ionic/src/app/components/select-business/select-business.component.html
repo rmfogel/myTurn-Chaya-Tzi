@@ -1,0 +1,74 @@
+<!-- <ion-content fullscreen='true'>
+  <div >
+<p>
+  
+ 
+ 
+
+
+  </p>
+  </div>
+<ion-button (click)="loadBusinesses()">load business</ion-button> -->
+
+<!-- <ion-item>
+  <ion-label>Business</ion-label>
+  <ion-select  multiple="true">
+    <ion-select-option *ngFor="let item of businessList">
+      {{item.name}}
+    </ion-select-option>
+  </ion-select>
+</ion-item> -->
+<!-- <ion-item *ngFor="let item of businessList">
+ 
+  
+      {{item.name}}
+    
+</ion-item>
+</ion-content> -->
+<!-- <ion-item>
+  <ion-label>Business</ion-label>
+  <ion-select  multiple="true" [(ngModel)]="selectedBusinessList">
+    <ion-select-option *ngFor="let item of businessList">
+      {{item.name}}
+    </ion-select-option>
+  </ion-select>
+</ion-item> -->
+<ion-content [fullscreen]='true'>
+  <div>
+<ion-grid>
+<ion-row>
+ 
+  <ion-col size="8">
+    <div>
+<p>iocons</p>
+<ion-searchbar placeholder="סנן עסק" (ionInput)="filterBussines($event)"></ion-searchbar>
+<ion-list lines="none">
+  <ion-item #b  id={{business.id}} *ngFor="let business of businessList" value="business"
+   >
+  <ion-button (click)="loudBranches(business.id)">בחר סניף מסוים</ion-button>
+  <ion-button (click)="loudService(business.id)">בחר שירות בכל סניף</ion-button>
+    {{business.name}}
+  </ion-item>
+</ion-list>
+    </div>
+  </ion-col>
+  <ion-col size="4">
+    <ion-searchbar placeholder="סנן קטגוריה" (ionInput)="filterCategories($event)"></ion-searchbar>
+
+    <div style="position:fixed">
+      <ion-list>
+        <ion-item #ctg id={{category.id}} *ngFor="let category of categoryList" value="category" 
+         (click)="loadBusinesses($event)">
+       {{category.name}}
+        </ion-item>
+    
+      </ion-list>
+    </div>
+  </ion-col>
+</ion-row>
+</ion-grid>
+</div>
+
+
+</ion-content>
+

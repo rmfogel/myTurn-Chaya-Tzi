@@ -1,0 +1,36 @@
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\A_Gui_Tester.exe.config
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\A_Gui_Tester.exe
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\A_Gui_Tester.pdb
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Bl.dll
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Dto.dll
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Bl.pdb
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Dto.pdb
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csprojAssemblyReference.cache
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.Properties.Resources.resources
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csproj.GenerateResource.cache
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csproj.CopyComplete
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.exe
+D:\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\A_Gui_Tester.exe.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\A_Gui_Tester.exe
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\A_Gui_Tester.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Bl.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Dal.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\EntityFramework.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Bl.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Dal.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\Dal.dll.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\EntityFramework.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csprojAssemblyReference.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.Form1.resources
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.Properties.Resources.resources
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csproj.GenerateResource.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.csproj.CopyComplete
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.exe
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\obj\Debug\A_Gui_Tester.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\A_Gui_Tester\bin\Debug\EntityFramework.SqlServer.xml

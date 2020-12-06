@@ -1,0 +1,77 @@
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dto\bin\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dto\bin\Debug\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.pdb
+D:\פרויקט גמר\MyTurn\Dto\bin\Debug\Dto.dll
+D:\פרויקט גמר\MyTurn\Dto\bin\Debug\Dto.pdb
+D:\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.dll
+D:\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dto\bin\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dto\bin\Debug\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\FinalP\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\FinalP\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\FinalP\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Desktop\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Desktop\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Desktop\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Desktop\MyTurn\Dto\obj\Debug\Dto.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\bin\Debug\Dto.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\bin\Debug\Dto.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\obj\Debug\Dto.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\obj\Debug\Dto.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache

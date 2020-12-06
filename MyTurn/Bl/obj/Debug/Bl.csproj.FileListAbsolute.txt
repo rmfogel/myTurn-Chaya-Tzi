@@ -1,0 +1,172 @@
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\Bl.dll
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\Bl.pdb
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\Dal.dll
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\Dto.dll
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.dll
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\Dal.pdb
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\Dal.dll.config
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\Dto.pdb
+D:\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.xml
+D:\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+D:\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+D:\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.dll
+D:\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\Bl.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\Bl.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\Dal.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\Dal.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\Dal.dll.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\FinalProject\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn (1)\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\‏‏תיקיה חדשה\MyTurn\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Documents\FinalP\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Desktop\פרויקט מציפי\MyTurn\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Desktop\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\user1\Desktop\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\Bl.dll.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\Bl.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\Bl.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\Dto.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\EntityFramework.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\Dto.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\EntityFramework.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.pdb

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyTurnModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Appointments">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BranchDayId" Type="int" />
+    <Property Name="dateTimeTurn" Type="datetime" />
+    <Property Name="userId" Type="int" />
+    <Property Name="getServiceDate" Type="datetime" />
+    <Property Name="DurationService" Type="int" />
+  </EntityType>
+  <EntityType Name="Branches">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idBusiness" Type="int" />
+    <Property Name="adress" Type="nvarchar" MaxLength="50" />
+    <Property Name="phoneNumber" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Business">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idCategory" Type="int" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="phoneNumber" Type="nvarchar" MaxLength="10" />
+    <Property Name="email" Type="nchar" MaxLength="200" />
+    <Property Name="passward" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Cancelations">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="appointmentId" Type="int" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Services">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="businessId" Type="int" />
+  </EntityType>
+  <EntityType Name="ShiftDayDetails">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="shiftId" Type="int" />
+    <Property Name="DayOfWeek" Type="int" />
+    <Property Name="openTime" Type="time" Precision="7" />
+    <Property Name="ClosedTime" Type="time" Precision="7" />
+    <Property Name="avgServiceTime" Type="float" />
+    <Property Name="zGrade" Type="float" />
+    <Property Name="waitingTimeAvg" Type="int" />
+  </EntityType>
+  <EntityType Name="Shifts">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idBranch" Type="int" />
+    <Property Name="idService" Type="int" />
+    <Property Name="MinTimeToCancel" Type="int" />
+    <Property Name="PaymentforCancel" Type="money" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstName" Type="nvarchar" MaxLength="10" />
+    <Property Name="lastName" Type="nvarchar" MaxLength="10" />
+    <Property Name="email" Type="varchar" MaxLength="20" />
+    <Property Name="phoneNumber" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK__Appointme__Branc__46E78A0C">
+    <End Role="ShiftDayDetails" Type="Self.ShiftDayDetails" Multiplicity="0..1" />
+    <End Role="Appointments" Type="Self.Appointments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ShiftDayDetails">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Appointments">
+        <PropertyRef Name="BranchDayId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Appointme__userI__47DBAE45">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Appointments" Type="Self.Appointments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Appointments">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Branches__idBusi__48CFD27E">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Branches" Type="Self.Branches" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Branches">
+        <PropertyRef Name="idBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Business__idCate__49C3F6B7">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="0..1" />
+    <End Role="Business" Type="Self.Business" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Business">
+        <PropertyRef Name="idCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cancelati__appoi__4AB81AF0">
+    <End Role="Appointments" Type="Self.Appointments" Multiplicity="0..1" />
+    <End Role="Cancelations" Type="Self.Cancelations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Appointments">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Cancelations">
+        <PropertyRef Name="appointmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Services__busine__6E01572D">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Services" Type="Self.Services" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Services">
+        <PropertyRef Name="businessId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ShiftDayD__shift__4CA06362">
+    <End Role="Shifts" Type="Self.Shifts" Multiplicity="0..1" />
+    <End Role="ShiftDayDetails" Type="Self.ShiftDayDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shifts">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ShiftDayDetails">
+        <PropertyRef Name="shiftId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Shifts__idBranch__4D94879B">
+    <End Role="Branches" Type="Self.Branches" Multiplicity="0..1" />
+    <End Role="Shifts" Type="Self.Shifts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Branches">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Shifts">
+        <PropertyRef Name="idBranch" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Shifts__idServic__4E88ABD4">
+    <End Role="Services" Type="Self.Services" Multiplicity="0..1" />
+    <End Role="Shifts" Type="Self.Shifts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Services">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Shifts">
+        <PropertyRef Name="idService" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyTurnModelStoreContainer">
+    <EntitySet Name="Appointments" EntityType="Self.Appointments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Branches" EntityType="Self.Branches" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Business" EntityType="Self.Business" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cancelations" EntityType="Self.Cancelations" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Categories" EntityType="Self.Categories" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Services" EntityType="Self.Services" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ShiftDayDetails" EntityType="Self.ShiftDayDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Shifts" EntityType="Self.Shifts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Appointme__Branc__46E78A0C" Association="Self.FK__Appointme__Branc__46E78A0C">
+      <End Role="ShiftDayDetails" EntitySet="ShiftDayDetails" />
+      <End Role="Appointments" EntitySet="Appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Appointme__userI__47DBAE45" Association="Self.FK__Appointme__userI__47DBAE45">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Appointments" EntitySet="Appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Branches__idBusi__48CFD27E" Association="Self.FK__Branches__idBusi__48CFD27E">
+      <End Role="Business" EntitySet="Business" />
+      <End Role="Branches" EntitySet="Branches" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Business__idCate__49C3F6B7" Association="Self.FK__Business__idCate__49C3F6B7">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Business" EntitySet="Business" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cancelati__appoi__4AB81AF0" Association="Self.FK__Cancelati__appoi__4AB81AF0">
+      <End Role="Appointments" EntitySet="Appointments" />
+      <End Role="Cancelations" EntitySet="Cancelations" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Services__busine__6E01572D" Association="Self.FK__Services__busine__6E01572D">
+      <End Role="Business" EntitySet="Business" />
+      <End Role="Services" EntitySet="Services" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ShiftDayD__shift__4CA06362" Association="Self.FK__ShiftDayD__shift__4CA06362">
+      <End Role="Shifts" EntitySet="Shifts" />
+      <End Role="ShiftDayDetails" EntitySet="ShiftDayDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Shifts__idBranch__4D94879B" Association="Self.FK__Shifts__idBranch__4D94879B">
+      <End Role="Branches" EntitySet="Branches" />
+      <End Role="Shifts" EntitySet="Shifts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Shifts__idServic__4E88ABD4" Association="Self.FK__Shifts__idServic__4E88ABD4">
+      <End Role="Services" EntitySet="Services" />
+      <End Role="Shifts" EntitySet="Shifts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

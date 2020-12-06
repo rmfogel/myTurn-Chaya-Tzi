@@ -1,0 +1,52 @@
+<!-- <ion-content fullscreen='true'>
+  <div >
+<p>
+  
+ 
+ 
+
+
+  </p>
+  </div>
+<ion-button (click)="loadBusinesses()">load business</ion-button> -->
+
+<!-- <ion-item>
+  <ion-label>Business</ion-label>
+  <ion-select  multiple="true">
+    <ion-select-option *ngFor="let item of businessList">
+      {{item.name}}
+    </ion-select-option>
+  </ion-select>
+</ion-item> -->
+<!-- <ion-item *ngFor="let item of businessList">
+ 
+  
+      {{item.name}}
+    
+</ion-item>
+</ion-content> -->
+<!-- <ion-item>
+  <ion-label>Business</ion-label>
+  <ion-select  multiple="true" [(ngModel)]="selectedBusinessList">
+    <ion-select-option *ngFor="let item of businessList">
+      {{item.name}}
+    </ion-select-option>
+  </ion-select>
+</ion-item> -->
+<ion-content [fullscreen]='true'>
+  <div>
+    
+          <div>
+            <p>iocons</p>
+            <ion-list lines="none">
+              <ion-item #b id={{branch.adress}} *ngFor="let branch of branchList" value="branch"
+                (click)="loudService(branch)">
+                {{branch.adress}}
+              </ion-item>
+            </ion-list>
+          </div>
+   
+  </div>
+
+
+</ion-content>

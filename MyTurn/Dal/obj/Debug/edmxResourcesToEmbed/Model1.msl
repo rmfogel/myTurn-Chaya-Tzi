@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyTurnModelStoreContainer" CdmEntityContainer="MyTurnEntities">
+    <EntitySetMapping Name="Appointments">
+      <EntityTypeMapping TypeName="MyTurnModel.Appointment">
+        <MappingFragment StoreEntitySet="Appointments">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="dayId" ColumnName="dayId" />
+          <ScalarProperty Name="hour" ColumnName="hour" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="getServiceDate" ColumnName="getServiceDate" />
+          <ScalarProperty Name="DurationService" ColumnName="DurationService" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Branches">
+      <EntityTypeMapping TypeName="MyTurnModel.Branch">
+        <MappingFragment StoreEntitySet="Branches">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idBusiness" ColumnName="idBusiness" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Businesses">
+      <EntityTypeMapping TypeName="MyTurnModel.Business">
+        <MappingFragment StoreEntitySet="Business">
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idCategory" ColumnName="idCategory" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cancelations">
+      <EntityTypeMapping TypeName="MyTurnModel.Cancelation">
+        <MappingFragment StoreEntitySet="Cancelations">
+          <ScalarProperty Name="appoinmentId" ColumnName="appoinmentId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="MyTurnModel.Category">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Days">
+      <EntityTypeMapping TypeName="MyTurnModel.Day">
+        <MappingFragment StoreEntitySet="Days">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="shiftId" ColumnName="shiftId" />
+          <ScalarProperty Name="dayName" ColumnName="dayName" />
+          <ScalarProperty Name="openTime" ColumnName="openTime" />
+          <ScalarProperty Name="ClosedTime" ColumnName="ClosedTime" />
+          <ScalarProperty Name="avgServiceTime" ColumnName="avgServiceTime" />
+          <ScalarProperty Name="zGrade" ColumnName="zGrade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Services">
+      <EntityTypeMapping TypeName="MyTurnModel.Service">
+        <MappingFragment StoreEntitySet="Services">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idCategory" ColumnName="idCategory" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shifts">
+      <EntityTypeMapping TypeName="MyTurnModel.Shift">
+        <MappingFragment StoreEntitySet="Shifts">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idBranch" ColumnName="idBranch" />
+          <ScalarProperty Name="idService" ColumnName="idService" />
+          <ScalarProperty Name="MinTimeToCancel" ColumnName="MinTimeToCancel" />
+          <ScalarProperty Name="PaymentforCancel" ColumnName="PaymentforCancel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="MyTurnModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

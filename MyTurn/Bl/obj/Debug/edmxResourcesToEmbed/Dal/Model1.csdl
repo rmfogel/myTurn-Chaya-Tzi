@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyTurnModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Appointment">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BranchDayId" Type="Int32" />
+    <Property Name="dateTimeTurn" Type="DateTime" Precision="3" />
+    <Property Name="userId" Type="Int32" />
+    <Property Name="getServiceDate" Type="DateTime" Precision="3" />
+    <Property Name="DurationService" Type="Int32" />
+    <NavigationProperty Name="ShiftDayDetail" Relationship="Self.FK__Appointme__Branc__45F365D3" FromRole="Appointments" ToRole="ShiftDayDetails" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Appointme__userI__46E78A0C" FromRole="Appointments" ToRole="Users" />
+    <NavigationProperty Name="Cancelations" Relationship="Self.FK__Cancelati__appoi__60A75C0F" FromRole="Appointments" ToRole="Cancelations" />
+    <Property Name="RouteId" Type="Int32" />
+    <NavigationProperty Name="Route" Relationship="MyTurnModel.FK__Appointme__Route__4E88ABD4" FromRole="Appointment" ToRole="Route" />
+  </EntityType>
+  <EntityType Name="Branch">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idBusiness" Type="Int32" />
+    <Property Name="adress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="phoneNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__Branches__idBusi__47DBAE45" FromRole="Branches" ToRole="Business" />
+    <NavigationProperty Name="Shifts" Relationship="MyTurnModel.FK__Shifts__idBranch__398D8EEE" FromRole="Branch" ToRole="Shift" />
+  </EntityType>
+  <EntityType Name="Business">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idCategory" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="phoneNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" MaxLength="200" FixedLength="true" Unicode="true" />
+    <Property Name="passward" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Branches" Relationship="Self.FK__Branches__idBusi__47DBAE45" FromRole="Business" ToRole="Branches" />
+    <NavigationProperty Name="Category" Relationship="MyTurnModel.FK__Business__idCate__35BCFE0A" FromRole="Business" ToRole="Category" />
+    <NavigationProperty Name="Services" Relationship="MyTurnModel.FK__Services__busine__37A5467C" FromRole="Business" ToRole="Service" />
+  </EntityType>
+  <EntityType Name="Cancelation">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="appointmentId" Type="Int32" />
+    <NavigationProperty Name="Appointment" Relationship="Self.FK__Cancelati__appoi__60A75C0F" FromRole="Cancelations" ToRole="Appointments" />
+  </EntityType>
+  <EntityType Name="ShiftDayDetail">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="shiftId" Type="Int32" />
+    <Property Name="DayOfWeek" Type="Int32" />
+    <Property Name="openTime" Type="Time" Precision="7" />
+    <Property Name="ClosedTime" Type="Time" Precision="7" />
+    <Property Name="avgServiceTime" Type="Double" />
+    <Property Name="zGrade" Type="Double" />
+    <NavigationProperty Name="Appointments" Relationship="Self.FK__Appointme__Branc__45F365D3" FromRole="ShiftDayDetails" ToRole="Appointments" />
+    <Property Name="waitingTimeAvg" Type="Int32" />
+    <NavigationProperty Name="Shift" Relationship="MyTurnModel.FK__ShiftDayD__shift__38996AB5" FromRole="ShiftDayDetail" ToRole="Shift" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="firstName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="lastName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="phoneNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Appointments" Relationship="Self.FK__Appointme__userI__46E78A0C" FromRole="Users" ToRole="Appointments" />
+    <NavigationProperty Name="Routes" Relationship="MyTurnModel.FK__Routes__UserId__4D94879B" FromRole="User" ToRole="Route" />
+  </EntityType>
+  <Association Name="FK__Appointme__Branc__45F365D3">
+    <End Role="ShiftDayDetails" Type="Self.ShiftDayDetail" Multiplicity="0..1" />
+    <End Role="Appointments" Type="Self.Appointment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ShiftDayDetails">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Appointments">
+        <PropertyRef Name="BranchDayId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Appointme__userI__46E78A0C">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Appointments" Type="Self.Appointment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Appointments">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cancelati__appoi__60A75C0F">
+    <End Role="Appointments" Type="Self.Appointment" Multiplicity="0..1" />
+    <End Role="Cancelations" Type="Self.Cancelation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Appointments">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Cancelations">
+        <PropertyRef Name="appointmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Branches__idBusi__47DBAE45">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Branches" Type="Self.Branch" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Branches">
+        <PropertyRef Name="idBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyTurnEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Appointments" EntityType="Self.Appointment" />
+    <EntitySet Name="Branches" EntityType="Self.Branch" />
+    <EntitySet Name="Businesses" EntityType="Self.Business" />
+    <EntitySet Name="Cancelations" EntityType="Self.Cancelation" />
+    <EntitySet Name="ShiftDayDetails" EntityType="Self.ShiftDayDetail" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__Appointme__Branc__45F365D3" Association="Self.FK__Appointme__Branc__45F365D3">
+      <End Role="ShiftDayDetails" EntitySet="ShiftDayDetails" />
+      <End Role="Appointments" EntitySet="Appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Appointme__userI__46E78A0C" Association="Self.FK__Appointme__userI__46E78A0C">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Appointments" EntitySet="Appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cancelati__appoi__60A75C0F" Association="Self.FK__Cancelati__appoi__60A75C0F">
+      <End Role="Appointments" EntitySet="Appointments" />
+      <End Role="Cancelations" EntitySet="Cancelations" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Branches__idBusi__47DBAE45" Association="Self.FK__Branches__idBusi__47DBAE45">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="Branches" EntitySet="Branches" />
+    </AssociationSet>
+    <EntitySet Name="Categories" EntityType="MyTurnModel.Category" />
+    <EntitySet Name="Services" EntityType="MyTurnModel.Service" />
+    <EntitySet Name="Shifts" EntityType="MyTurnModel.Shift" />
+    <AssociationSet Name="FK__Shifts__idBranch__398D8EEE" Association="MyTurnModel.FK__Shifts__idBranch__398D8EEE">
+      <End Role="Branch" EntitySet="Branches" />
+      <End Role="Shift" EntitySet="Shifts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Business__idCate__35BCFE0A" Association="MyTurnModel.FK__Business__idCate__35BCFE0A">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Business" EntitySet="Businesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Services__busine__37A5467C" Association="MyTurnModel.FK__Services__busine__37A5467C">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="Service" EntitySet="Services" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Shifts__idServic__3A81B327" Association="MyTurnModel.FK__Shifts__idServic__3A81B327">
+      <End Role="Service" EntitySet="Services" />
+      <End Role="Shift" EntitySet="Shifts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ShiftDayD__shift__38996AB5" Association="MyTurnModel.FK__ShiftDayD__shift__38996AB5">
+      <End Role="Shift" EntitySet="Shifts" />
+      <End Role="ShiftDayDetail" EntitySet="ShiftDayDetails" />
+    </AssociationSet>
+    <EntitySet Name="Routes" EntityType="MyTurnModel.Route" />
+    <AssociationSet Name="FK__Appointme__Route__4E88ABD4" Association="MyTurnModel.FK__Appointme__Route__4E88ABD4">
+      <End Role="Route" EntitySet="Routes" />
+      <End Role="Appointment" EntitySet="Appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Routes__UserId__4D94879B" Association="MyTurnModel.FK__Routes__UserId__4D94879B">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Route" EntitySet="Routes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Businesses" Relationship="MyTurnModel.FK__Business__idCate__35BCFE0A" FromRole="Category" ToRole="Business" />
+  </EntityType>
+  <EntityType Name="Service">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="businessId" Type="Int32" />
+    <NavigationProperty Name="Business" Relationship="MyTurnModel.FK__Services__busine__37A5467C" FromRole="Service" ToRole="Business" />
+    <NavigationProperty Name="Shifts" Relationship="MyTurnModel.FK__Shifts__idServic__3A81B327" FromRole="Service" ToRole="Shift" />
+  </EntityType>
+  <EntityType Name="Shift">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idBranch" Type="Int32" />
+    <Property Name="idService" Type="Int32" />
+    <Property Name="MinTimeToCancel" Type="Int32" />
+    <Property Name="PaymentforCancel" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="Branch" Relationship="MyTurnModel.FK__Shifts__idBranch__398D8EEE" FromRole="Shift" ToRole="Branch" />
+    <NavigationProperty Name="Service" Relationship="MyTurnModel.FK__Shifts__idServic__3A81B327" FromRole="Shift" ToRole="Service" />
+    <NavigationProperty Name="ShiftDayDetails" Relationship="MyTurnModel.FK__ShiftDayD__shift__38996AB5" FromRole="Shift" ToRole="ShiftDayDetail" />
+  </EntityType>
+  <Association Name="FK__Shifts__idBranch__398D8EEE">
+    <End Type="MyTurnModel.Branch" Role="Branch" Multiplicity="0..1" />
+    <End Type="MyTurnModel.Shift" Role="Shift" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Branch">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Shift">
+        <PropertyRef Name="idBranch" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Business__idCate__35BCFE0A">
+    <End Type="MyTurnModel.Category" Role="Category" Multiplicity="0..1" />
+    <End Type="MyTurnModel.Business" Role="Business" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Business">
+        <PropertyRef Name="idCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Services__busine__37A5467C">
+    <End Type="MyTurnModel.Business" Role="Business" Multiplicity="0..1" />
+    <End Type="MyTurnModel.Service" Role="Service" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Service">
+        <PropertyRef Name="businessId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Shifts__idServic__3A81B327">
+    <End Type="MyTurnModel.Service" Role="Service" Multiplicity="0..1" />
+    <End Type="MyTurnModel.Shift" Role="Shift" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Service">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Shift">
+        <PropertyRef Name="idService" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ShiftDayD__shift__38996AB5">
+    <End Type="MyTurnModel.Shift" Role="Shift" Multiplicity="0..1" />
+    <End Type="MyTurnModel.ShiftDayDetail" Role="ShiftDayDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shift">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ShiftDayDetail">
+        <PropertyRef Name="shiftId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Route">
+    <Key>
+      <PropertyRef Name="RouteId" />
+    </Key>
+    <Property Name="RouteId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="StartTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="EndTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="StartPoint" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="EndPoint" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="WalkingBy" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Appointments" Relationship="MyTurnModel.FK__Appointme__Route__4E88ABD4" FromRole="Route" ToRole="Appointment" />
+    <NavigationProperty Name="User" Relationship="MyTurnModel.FK__Routes__UserId__4D94879B" FromRole="Route" ToRole="User" />
+  </EntityType>
+  <Association Name="FK__Appointme__Route__4E88ABD4">
+    <End Type="MyTurnModel.Route" Role="Route" Multiplicity="0..1" />
+    <End Type="MyTurnModel.Appointment" Role="Appointment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Route">
+        <PropertyRef Name="RouteId" />
+      </Principal>
+      <Dependent Role="Appointment">
+        <PropertyRef Name="RouteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Routes__UserId__4D94879B">
+    <End Type="MyTurnModel.User" Role="User" Multiplicity="1" />
+    <End Type="MyTurnModel.Route" Role="Route" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Route">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

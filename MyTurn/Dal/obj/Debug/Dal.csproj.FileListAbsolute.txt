@@ -1,0 +1,42 @@
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.dll.config
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.dll
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.pdb
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.dll
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.xml
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csproj.CopyComplete
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.dll
+Y:\תשפ\2\שרייבר חיה\תשפ\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.pdb
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.dll.config
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.dll
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.pdb
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\Dto.dll
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.dll
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\Dto.pdb
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.xml
+D:\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.dll
+D:\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.dll.config
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\Dal.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\Dto.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\Dto.pdb
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.csproj.CopyComplete
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.dll
+Y:\תשפ\2\שרייבר חיה\פרויקט גמר\MyTurn\Dal\obj\Debug\Dal.pdb

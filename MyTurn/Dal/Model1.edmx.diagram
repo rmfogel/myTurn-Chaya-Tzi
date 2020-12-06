@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aad13777869341a0b70f19a185cc385c" Name="Diagram1">
+        <EntityTypeShape EntityType="MyTurnModel.Cancelation" Width="1.5" PointX="14.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyTurnModel.User" Width="1.5" PointX="9.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyTurnModel.Appointment" Width="1.5" PointX="12" PointY="2.25" />
+        <EntityTypeShape EntityType="MyTurnModel.Branch" Width="1.5" PointX="5.25" PointY="1.375" />
+        <EntityTypeShape EntityType="MyTurnModel.Business" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="MyTurnModel.Category" Width="1.5" PointX="0.75" PointY="2.875" />
+        <EntityTypeShape EntityType="MyTurnModel.Day" Width="1.5" PointX="9.75" PointY="2.375" />
+        <EntityTypeShape EntityType="MyTurnModel.Service" Width="1.5" PointX="5.25" PointY="4.5" />
+        <EntityTypeShape EntityType="MyTurnModel.Shift" Width="1.5" PointX="7.5" PointY="2.5" />
+        <AssociationConnector Association="MyTurnModel.FK__Appointme__busin__5AEE82B9" />
+        <AssociationConnector Association="MyTurnModel.FK__Appointme__dayId__5070F446" />
+        <AssociationConnector Association="MyTurnModel.FK__Appointme__userI__5165187F" />
+        <AssociationConnector Association="MyTurnModel.FK__Cancelati__appoi__571DF1D5" />
+        <AssociationConnector Association="MyTurnModel.FK__Branches__idBusi__3C69FB99" />
+        <AssociationConnector Association="MyTurnModel.FK__Shifts__idBranch__4222D4EF" />
+        <AssociationConnector Association="MyTurnModel.FK__Deal__idCategory__398D8EEE" />
+        <AssociationConnector Association="MyTurnModel.FK__Services__idCate__3F466844" />
+        <AssociationConnector Association="MyTurnModel.FK__Days__shiftId__4AB81AF0" />
+        <AssociationConnector Association="MyTurnModel.FK__Shifts__idServic__4316F928" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

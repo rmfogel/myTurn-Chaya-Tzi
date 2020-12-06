@@ -1,0 +1,72 @@
+
+<ion-content [fullscreen]="true">
+  <ion-list>
+   <form>
+     <ion-grid>
+ <ion-row>
+   <ion-col>
+     <ion-item>
+       <ion-label>תאריך</ion-label>
+       <ion-datetime  type="ion-datetime"  display-format="MMM DD" picker-format="MMM DD" 
+        [(ngModel)]="timeRange.Day" name="day"></ion-datetime>
+     </ion-item>
+   </ion-col>
+ </ion-row>
+ <ion-row>
+   <ion-col>
+     <ion-item>
+       <ion-label position="floating">משעה</ion-label>
+       <ion-datetime  type="ion-datetime"  display-format="h:mm A" picker-format="h:mm A"
+        value="1990-02-19T07:43Z" [(ngModel)]="timeRange.StartingTime" name="startTime"></ion-datetime>
+     </ion-item>
+   </ion-col>
+ 
+   <ion-col>
+     <ion-item>
+       <ion-label position="floating">עד שעה</ion-label>
+       <ion-datetime  type="ion-datetime"  display-format="h:mm A" picker-format="h:mm A"
+        value="1990-02-19T07:43Z" [(ngModel)]="timeRange.EndTime" name="endTime"></ion-datetime>
+     </ion-item>
+   </ion-col>
+ </ion-row>
+ <ion-row>
+   <ion-col>
+     <ion-item>
+       <ion-label position="floating">נקודת מוצא</ion-label>
+       <input ngx-google-places-autocomplete #placesRef="ngx-places"
+       (onAddressChange)="handlestartingPointChange($event)"  [(ngModel)]="areaRange.startingPoint" name="startingPoint" placeholder=""/>
+     </ion-item>
+   </ion-col>
+   <ion-col>
+     <ion-item>
+       <ion-label position="floating">נקודת יעד</ion-label>
+       <input ngx-google-places-autocomplete #placesRef="ngx-places"
+       (onAddressChange)="handleDestinationPointChange($event)"  [(ngModel)]="areaRange.destinationPoint" name="destinationPoint" placeholder=""/>
+     </ion-item>
+   </ion-col>
+ </ion-row>
+ <ion-row>
+   <ion-col>
+     <ion-item>
+       <ion-label>Walking By</ion-label>
+       <ion-select value="car" [(ngModel)]="walkingBy" name="walkingBy"
+     >
+         <ion-select-option value="car">ברכב</ion-select-option>
+         <ion-select-option value="foot">ברגל</ion-select-option>
+       </ion-select>
+     </ion-item>
+   </ion-col>
+ </ion-row>
+ <ion-row>
+  
+ </ion-row>
+     </ion-grid>
+   </form>
+  </ion-list>
+  <ion-item>
+   <ion-button (click)="saveDetails()" routerLink="/select-business">המשך</ion-button>
+   
+ </ion-item>
+  
+</ion-content>
+ 

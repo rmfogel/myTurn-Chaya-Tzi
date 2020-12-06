@@ -1,0 +1,49 @@
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\tests\obj\Debug\tests.csprojAssemblyReference.cache
+C:\Users\user1\Documents\ציפי\תשפ\פרויקט\MyTurn\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\tests.exe.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\tests.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\tests.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\Dto.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\obj\Debug\tests.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\obj\Debug\tests.csproj.CopyComplete
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\obj\Debug\tests.exe
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\obj\Debug\tests.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\Bl.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\Zippy-Angular\FinalProject\MyTurn\tests\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\tests.exe.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\tests.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\tests.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\Bl.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\Dto.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\Bl.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\Bl.dll.config
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\obj\Debug\tests.csprojAssemblyReference.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\obj\Debug\tests.csproj.CopyComplete
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\obj\Debug\tests.exe
+C:\Users\user1\Documents\פרויקט גמר\MyTurn\MyTurn\tests\obj\Debug\tests.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\Bl.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\Dto.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\EntityFramework.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\Bl.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\Bl.dll.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\Dto.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\EntityFramework.xml
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\obj\Debug\tests.csprojAssemblyReference.cache
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\obj\Debug\tests.exe
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\obj\Debug\tests.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\tests.exe.config
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\tests.exe
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\tests.pdb
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\obj\Debug\tests.csproj.CopyComplete
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\EntityFramework.SqlServer.dll
+E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\tests\bin\Debug\EntityFramework.SqlServer.xml

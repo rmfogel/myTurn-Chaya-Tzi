@@ -1,0 +1,41 @@
+<ion-app>
+
+  <ion-header class="color">
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-back-button  defaultHref="/"
+        text=""
+          >
+        </ion-back-button>
+        <ion-menu-button autoHide="false"></ion-menu-button>
+       </ion-buttons>
+      <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/login">
+       <img src="../../../assets/icon/favicon.png"  height="30px"routerLink="/view-routes">
+       <img src="../../../assets/icon/favicon.png"  height="30px" routerLink="/create-route">
+    </ion-toolbar>
+  </ion-header>
+  
+  <ion-menu side="start" menuId="first" contentId="main">
+    <ion-header>
+      <ion-toolbar color="primary">
+        <ion-title>מסלול</ion-title>
+      </ion-toolbar>
+    </ion-header>
+
+    <ion-content>
+      <!-- [(ngModel)]="t.point" -->
+
+      <!-- *ngFor="let t of PointForTrack.LisFortrack -->
+      <ion-list>
+        <ion-item >eeeee</ion-item>
+        <ion-item >eeeee</ion-item>
+      </ion-list>
+    </ion-content>
+  </ion-menu>
+
+
+  <ion-router-outlet id="main"></ion-router-outlet>
+<ion-content>
+  <ion-router-outlet></ion-router-outlet>
+</ion-content>
+</ion-app>
