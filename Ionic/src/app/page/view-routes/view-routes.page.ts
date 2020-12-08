@@ -25,6 +25,8 @@ export class ViewRoutesPage implements OnInit {
     res.GoodApointments=route.Appointments;
     res.Origion=route.StartPoint;
     res.Destination=route.EndPoint;
+    res.ActualStartTime=route.StartTime;
+    res.ActualEndTime=route.EndTime;
     this.router.navigate(['map-result',JSON.stringify(res)])
   }
 

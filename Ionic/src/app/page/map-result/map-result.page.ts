@@ -25,14 +25,14 @@ export class MapResultPage implements OnInit {
   }
   public markerOptions = {
     origin: {
-      infoWindow: 'התחלה.',
+      infoWindow: 'התחלה. שעת יציאה: ',
    //   icon: 'http://i.imgur.com/7teZKif.png',
     },
     waypoints: [
       
        ],
     destination: {
-      infoWindow: 'סיום',
+      infoWindow: 'סיום. שעת הגעה' ,
      // icon: 'http://i.imgur.com/7teZKif.png',
     },
   };
@@ -40,7 +40,8 @@ export class MapResultPage implements OnInit {
   
   waypoints = [];
   constructor(private appointmentService:AppointmentService,
-    private route:ActivatedRoute) { }
+    private route:ActivatedRoute,
+    private router:Router) { }
 
   ngOnInit() {
     this.route.params.subscribe(
@@ -69,7 +70,9 @@ export class MapResultPage implements OnInit {
     this.origin.lng = +this.reult.Origion.Lng;
     this.destination.lat = +this.reult.Destination.Lat;
     this.destination.lng = +this.reult.Destination.Lng;
-    
+    this.markerOptions.origin.infoWindow += this.reult.ActualStartTime;
+    this.markerOptions.destination.infoWindow += this.reult.ActualEndTime;
+
     for(let point of this.reult.GoodApointments)
     {
       let s=`${new Date(point.hour).toLocaleTimeString()}
@@ -87,7 +90,7 @@ export class MapResultPage implements OnInit {
 
   deleteAppointment(id)
   {
-    this.appointmentService.deleteAppointment(id).subscribe(res=>{this.reult=res;
-    this.createMapLocations()})
+    this.appointmentService.deleteAppointment(id).subscribe(res=>{
+    this.router.navigate(['map-result',JSON.stringify(res)])})
   }
 }

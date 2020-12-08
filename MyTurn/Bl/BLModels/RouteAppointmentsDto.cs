@@ -26,7 +26,7 @@ namespace Bl.BLModels
             this.StartPoint =new PointOnMap(route.StartPoint);
             this.EndPoint = new PointOnMap(route.EndPoint);
             this.StartTime = route.StartTime;
-            this.StartTime = route.StartTime;
+            this.EndTime = route.EndTime;
             this.WalkingBy = route.WalkingBy;
             this.UserId= route.UserId;
             this.RouteId = route.RouteId;
