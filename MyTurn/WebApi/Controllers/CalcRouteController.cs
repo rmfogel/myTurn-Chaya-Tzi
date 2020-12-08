@@ -22,7 +22,12 @@ namespace WebApi.Controllers
             {
                 Bl.Route r = Bl.Converters.RouteConverter.ToRoute(route);
                 TurnResult res = Bl.Calcs.CalcRoute.Calc(r);
-                Bl.BLModels.RouteBL.SaveRouteToDB(route,res);
+                List<int> ids= Bl.BLModels.RouteBL.SaveRouteToDB(route,res);
+                for (int i = 0; i < ids.Count; i++)
+                {
+                    res.GoodApointments[i].id = ids[i];
+
+                }
                 return Ok(res);
             }
             catch (Exception e)

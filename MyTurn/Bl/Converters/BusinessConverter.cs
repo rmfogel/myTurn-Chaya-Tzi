@@ -19,6 +19,8 @@ namespace Bl.Converters
             business.phoneNumber = businessDto.phoneNumber;
             business.email = businessDto.email;
             business.passward = businessDto.password;
+            business.image = businessDto.image;
+
             return business;
 
         }
@@ -45,6 +47,7 @@ namespace Bl.Converters
             businessDto.phoneNumber = business.phoneNumber;
             businessDto.email = business.email;
             businessDto.password = business.passward;
+            businessDto.image = business.image;
             return businessDto;
 
         }

@@ -170,3 +170,17 @@ E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__א�
 E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
 E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.dll
 E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Bl\obj\Debug\Bl.pdb
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\Bl.dll.config
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\Bl.dll
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\Bl.pdb
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\Dto.dll
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\EntityFramework.dll
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\Dto.pdb
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\EntityFramework.xml
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\obj\Debug\Bl.dll
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Bl\obj\Debug\Bl.pdb

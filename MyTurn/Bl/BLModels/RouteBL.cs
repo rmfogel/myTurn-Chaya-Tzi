@@ -28,7 +28,7 @@ namespace Bl.BLModels
             }
         }
 
-        public static void SaveRouteToDB(RouteDto route, TurnResult result)
+        public static List<int> SaveRouteToDB(RouteDto route, TurnResult result)
         {
             using (MyTurnEntities contex = new MyTurnEntities())
             {
@@ -36,6 +36,7 @@ namespace Bl.BLModels
                
                     foreach (var item in result.GoodApointments)
                     {
+                    if(item.hour!=null)
                         newRoute.Appointments.Add(Converters.AppointmentConverter.ToDalAppointment(item));
                     }
 
@@ -44,6 +45,7 @@ namespace Bl.BLModels
                 contex.Routes.Add(newRoute);
                 contex.SaveChanges();
 
+                return newRoute.Appointments.Select(a => a.id).ToList();
             }
         }
     }

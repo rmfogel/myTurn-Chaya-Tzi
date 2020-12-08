@@ -149,29 +149,44 @@ namespace Bl.Calcs
                 //מחזיר שעה של התור הנוכחי
                 availableTurn = ApointmentBl.GetFirstAvailableTurn(days.ElementAt(index), new TimeRange { StartingTime = time, EndTime = currentRoute.timeRange.EndTime.Value });
 
-                if (availableTurn == null)
+                if (availableTurn != null)
                 {// לטפל - מצב בו אין תור פנוי בסניף זה בשעה הרצויה   
-                    break;
+
+
+
+                    OptionalShift optional = new OptionalShift();
+                    optional.AvilableTime = availableTurn;
+                    optional.Shift = days.ElementAt(index);
+                    optional.ServiceId = days.ElementAt(index).Shift.Service.id;
+                    TempRout.Add(optional);
+                    time = time.Date + ((TimeSpan)availableTurn);
+
+                    //todo:  זמן המתנה ממוצע 
+                    //time.StartingTime.Value.TimeOfDay.Add(new TimeSpan(0, (int)(days.ElementAt(index).), 0);
+                    //מוסיף זמן ממוצע של זמן השרות
+                    time = time + new TimeSpan(0, (int)(days.ElementAt(index).avgServiceTime), 0);
+                    startingPoint = days.ElementAt(index).Shift.Branch.adress;
+                }
+                else
+                {
+                    OptionalShift optional = new OptionalShift();
+                    optional.AvilableTime = null;
+                    optional.Shift = days.ElementAt(index);
+                    optional.ServiceId = days.ElementAt(index).Shift.Service.id;
+                    TempRout.Add(optional);
 
                 }
-                OptionalShift optional = new OptionalShift();
-                optional.AvilableTime = availableTurn.Value;
-                optional.Shift = days.ElementAt(index);
-                optional.ServiceId = days.ElementAt(index).Shift.Service.id;
-                TempRout.Add(optional);
-                time = time.Date + ((TimeSpan)availableTurn);
-
-                //todo:  זמן המתנה ממוצע 
-                //time.StartingTime.Value.TimeOfDay.Add(new TimeSpan(0, (int)(days.ElementAt(index).), 0);
-                //מוסיף זמן ממוצע של זמן השרות
-                time = time + new TimeSpan(0, (int)(days.ElementAt(index).avgServiceTime), 0);
-                startingPoint = days.ElementAt(index).Shift.Branch.adress;
             }
             timeTake = (int)(time.TimeOfDay - currentRoute.timeRange.StartingTime.Value.TimeOfDay).TotalMinutes;
             if (timeTake < MinTimeTake || MinTimeTake == 0)
             {
-                MinTimeTake = timeTake;
-                OptimalRoute = TempRout;
+                if (OptimalRoute==null||TempRout.Count(b => b.AvilableTime == null) <= OptimalRoute.Count(b => b.AvilableTime == null))
+                {
+
+                    MinTimeTake = timeTake;
+                    OptimalRoute = TempRout;
+                }
+                
             }
 
 

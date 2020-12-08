@@ -75,3 +75,9 @@ E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__א�
 E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\obj\Debug\Dto.dll
 E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\obj\Debug\Dto.pdb
 E:\עבודה\חיהלה וציפי\פרויקט חיהלה וציפי\c#_-__אחרון\c# -  אחרון\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Dto\bin\Debug\Dto.dll
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Dto\bin\Debug\Dto.pdb
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Dto\obj\Debug\Dto.dll
+C:\Users\This_User\Desktop\Chaya and Tzipi\MyTurn\Dto\obj\Debug\Dto.pdb

@@ -29,4 +29,10 @@ export class BranchListComponent implements OnInit {
   loudService(branch)
   {
     this.router.navigate(['/business-details', this.businessId,branch.id]);  }
+
+  filterBranches(event) {
+    this.branchList = this.allBranches.filter(b =>
+      b.adress.indexOf(event.srcElement.value) > -1
+    )
+  }
 }

@@ -35,7 +35,8 @@
 </ion-item> -->
 <ion-content [fullscreen]='true'>
   <div>
-    
+        <ion-searchbar placeholder="סנן קטגוריה" (ionInput)="filterBranches($event)"></ion-searchbar>
+
           <div>
             <p>iocons</p>
             <ion-list lines="none">

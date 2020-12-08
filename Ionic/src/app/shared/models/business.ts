@@ -5,5 +5,5 @@ export class BusinessDto{
     phoneNumber= " ";
     email = " ";
     password = " ";
-
+    image=""
 }

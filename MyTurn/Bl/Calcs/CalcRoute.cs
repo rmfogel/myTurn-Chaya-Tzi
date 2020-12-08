@@ -35,11 +35,24 @@ namespace Bl.Calcs
             Result.Destination = new PointOnMap(Route.areaRange.destinationPoint);
             if (Result.GoodApointments.Count > 0)
             {
-                int before = Bl.Calcs.DistanceCalc.GooglePlacesDuration(route.areaRange.startingPoint, Result.GoodApointments[0].Address.formatedAddress, route.walkingBy);
-                int after = Bl.Calcs.DistanceCalc.GooglePlacesDuration(route.areaRange.destinationPoint, Result.GoodApointments.Last().Address.formatedAddress, route.walkingBy);
-                Result.ActualStartTime = Result.GoodApointments[0].hour.Value.AddMinutes(before * -1).TimeOfDay;
-                Result.ActualEndTime = Result.GoodApointments.Last().hour.Value.AddMinutes(after).TimeOfDay;
+                if (Result.GoodApointments[0].hour.HasValue)
+                {
+                    int before = Bl.Calcs.DistanceCalc.GooglePlacesDuration(route.areaRange.startingPoint, Result.GoodApointments[0].Address.formatedAddress, route.walkingBy);
+
+                    Result.ActualStartTime = Result.GoodApointments[0].hour.Value.AddMinutes(before * -1).TimeOfDay;
+                }
+                for (int i = Result.GoodApointments.Count-1; i >= 0; i--)
+                {
+                    if(Result.GoodApointments[i].hour.HasValue)
+                    {
+                        int after = Bl.Calcs.DistanceCalc.GooglePlacesDuration(route.areaRange.destinationPoint, Result.GoodApointments[i].Address.formatedAddress, route.walkingBy);
+                        Result.ActualEndTime = Result.GoodApointments[i].hour.Value.AddMinutes(after).TimeOfDay;
+                        break;
+                    }
+
+                }
             }
+
             return Result;
 
         }

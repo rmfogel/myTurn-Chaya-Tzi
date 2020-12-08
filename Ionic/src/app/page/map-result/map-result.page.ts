@@ -3,6 +3,8 @@ import { Result } from 'src/app/shared/models/result';
 import { CreateRouteService } from 'src/app/shared/services/create-route.service';
 import { PointOnMap } from 'src/app/shared/models/pointOnMap';
 import { Router, ActivatedRoute } from '@angular/router';
+import { AppointmentService } from 'src/app/shared/services/appointment.service';
+import { Appointment } from 'src/app/shared/models/appointment';
 
 @Component({
   selector: 'app-map-result',
@@ -11,6 +13,7 @@ import { Router, ActivatedRoute } from '@angular/router';
 })
 export class MapResultPage implements OnInit {
   reult:Result=new Result();
+  notRealAppointments:Appointment[]
   lat = 41.85;
   lng = -87.65;
 
@@ -36,18 +39,26 @@ export class MapResultPage implements OnInit {
 
   
   waypoints = [];
-  constructor(private createRouteService:CreateRouteService,
+  constructor(private appointmentService:AppointmentService,
     private route:ActivatedRoute) { }
 
   ngOnInit() {
     this.route.params.subscribe(
       p=>{
         this.reult =JSON.parse(p.result);
+        this.notRealAppointments=this.reult.GoodApointments.filter(a=>a.hour==null)
+        this.reult.GoodApointments = this.reult.GoodApointments.filter(a => a.hour != null);
+
       this.createMapLocations();
       this.renderOptions.suppressMarkers=true;
       });
    
 
+  }
+
+  getTimeString(date)
+  {
+  return new Date(date).toLocaleTimeString();
   }
   funcc()
   {
@@ -73,5 +84,10 @@ export class MapResultPage implements OnInit {
       }]];
     }
   }
-  
+
+  deleteAppointment(id)
+  {
+    this.appointmentService.deleteAppointment(id).subscribe(res=>{this.reult=res;
+    this.createMapLocations()})
+  }
 }

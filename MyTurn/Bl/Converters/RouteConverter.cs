@@ -29,6 +29,7 @@ namespace Bl.Converters
             r.walkingBy = route.WalkingBy;
 
             r.userId = route.UserId;
+            r.businessList = route.Appointments.Select(a => a.ShiftDayDetail.Shift.idService.Value).ToList();
             
               return r;
         }

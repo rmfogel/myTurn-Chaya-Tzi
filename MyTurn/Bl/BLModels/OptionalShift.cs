@@ -10,7 +10,7 @@ namespace Bl.BLModels
   public  class OptionalShift
     {
         public ShiftDayDetail Shift { get; set; }
-        public TimeSpan AvilableTime { get; set; }
+        public TimeSpan? AvilableTime { get; set; }
         public int ServiceId { get; set; }
 
     }
