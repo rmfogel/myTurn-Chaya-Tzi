@@ -13,9 +13,7 @@ export class CreateRouteService {
   constructor(private http:HttpClient) { }
 
   calcRoute(){
-    if (localStorage.getItem('r') == null || JSON.parse(localStorage.getItem('r')).businessList.length == 0)
-    localStorage.setItem('r',JSON.stringify(this.route));
-    else this.route = JSON.parse(localStorage.getItem('r'))
+   
    console.log("this.route",this.route)
     return  this.http.post(`${environment.BASE_URL}/CalcRoute`,this.route)
       
