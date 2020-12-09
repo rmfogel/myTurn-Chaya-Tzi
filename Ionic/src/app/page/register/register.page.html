@@ -1,14 +1,16 @@
-<ion-header>
+<!-- <ion-header>
   <ion-toolbar>
     <ion-title>register</ion-title>
   </ion-toolbar>
-</ion-header>
+</ion-header> -->
 
 <ion-content>
   <form >
+      <img class="logo-login" src="../../../assets/img/logo-login.png">
+      <ion-label class="header-login">הרשמה</ion-label>
     <ion-list>
-      <ion-item class="item">
-        <ion-input type="Text" required type="text" placeholder="שם פרטי" [(ngModel)]="user.firstName" 
+     
+        <ion-input type="Text"  class="input-login" required type="text" placeholder="שם פרטי" [(ngModel)]="user.firstName" 
         name="firstName"  id="FirstName"></ion-input>
         <!-- <div *ngIf="angForm.controls['name'].invalid && (angForm.controls['name'].dirty || angForm.controls['name'].touched)" class="alert alert-danger">
           <div *ngIf="angForm.controls['name'].errors.required">
@@ -16,30 +18,26 @@
         </div>
       </div> -->
           <!-- <span ng-show="myForm.FirstName.$submitted && myForm.FirstName.$">The name is required.</span> -->
-      </ion-item>
-      <ion-item>
-        <ion-input type="Text"  required type="text" placeholder="שם משפחה" [(ngModel)]="user.lastName" name="lastName">
-        </ion-input>
-      </ion-item>
-      <ion-item>
-        <ion-input type="Text" placeholder="טלפון" [(ngModel)]="user.phoneNumber" name="phone" >
-        </ion-input>
-      </ion-item>
-      <ion-item>
-        <ion-input type="Email" required type="text" placeholder="כתובת דואל" [(ngModel)]="user.email" name="email" id="Email">
-        </ion-input>
-      
-      </ion-item>
      
-       
-                <div class="ion-padding">
-          <ion-button expand="block"  class="ion-no-margin" (click)="btnSave()">ליצירת חשבון</ion-button>
-        </div>
+        <ion-input  class="input-login" type="Text"  required type="text" placeholder="שם משפחה" [(ngModel)]="user.lastName" name="lastName">
+        </ion-input>
+    
+        <ion-input  class="input-login" type="Text" placeholder="טלפון" [(ngModel)]="user.phoneNumber" name="phone" >
+        </ion-input>
+     
+        <ion-input class="input-login" type="Email" required type="text" placeholder="כתובת דואל" [(ngModel)]="user.email" name="email" id="Email">
+        </ion-input>
+    
+          
+          <ion-button class="btn-green btn-login" color="primary" expand="block" (click)="btnSave()">ליצירת חשבון</ion-button>
+    
       
       </ion-list>
       </form>
 
-      <h2>Have an account?</h2>
-      <p>Lorem ipsum dolor sit amet</p>
-      <label id="label-register" for="log-reg-show" routerLink='/login'>Login</label>
+
+      <div class="text-align-center"> <span>יש לך חשבון?&nbsp;</span>
+        <label class="link-label" id="label-register" for="log-reg-show" routerLink='/login'>הכנס כאן!</label></div>
+
+     
     </ion-content>

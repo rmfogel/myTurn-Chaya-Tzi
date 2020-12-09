@@ -24,3 +24,83 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+body{
+    text-align: right;
+    direction: rtl;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+*{
+font-family: 'Rubik', sans-serif;}
+
+.text-align-center{
+    text-align: center;
+}
+
+.btn-green{
+  
+    background-color: #00A69C;
+    --ion-color-base: #00A69C !important;
+    color: white;
+    padding: 7px 6px 9px;
+    border-radius: 30px;
+    font-size: 19px;
+    font-weight: 300;
+    min-height: 34px;
+    min-width: 104px;
+}
+
+.btn-login{
+  
+    max-width: 185px;
+    display: block;
+    min-width: 179px;
+    min-height: 43px;
+    margin: 37px auto 19px;
+
+}
+
+.input-login{
+  
+    border: 1px solid #00a79c;
+    border-radius: 19px;
+    margin: auto;
+    margin-bottom: 11px;
+    margin-top: 23px;
+    max-width: 83%;
+    padding-right: 13px !important;
+    font-family: "Rubik", sans-serif;
+}
+
+.main-wrap{
+    padding: 0 12px;
+}
+
+.myturn-header{
+    --ion-color-base: #00A69C !important;
+}
+
+.header-login{
+  
+    font-weight: 400;
+    font-size: 22px;
+    margin: auto;
+    margin-top: 15px;
+    display: block;
+    text-align: right;
+    max-width: 71%;
+}
+
+.logo-login{    
+    display: block;
+    margin: auto;
+    margin-top: 31px;
+}
+
+.link-label{
+    text-decoration: underline;
+    color:#EF8A44;
+}

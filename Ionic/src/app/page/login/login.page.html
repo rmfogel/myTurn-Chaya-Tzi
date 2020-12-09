@@ -1,16 +1,18 @@
-<ion-header>
+<!-- <ion-header>
   <ion-toolbar>
     <ion-title>login</ion-title>
   </ion-toolbar>
-</ion-header>
+</ion-header> -->
 
-<ion-content>
-  <ion-content >
-    <ion-list lines="none">
+
+  <ion-content>
+   
+    <ion-list class="text-align-center" lines="none">
       <form > 
-       
+        <img class="logo-login" src="../../../assets/img/logo-login.png">
+        <ion-label class="header-login">ברוך הבא!</ion-label>
         <ion-item>
-          <ion-input type="Email" required type="email" placeholder="כתובת דואל" [(ngModel)]="email" name="email" id="email">
+          <ion-input type="Email" class="input-login" required type="email" placeholder="כתובת דואל" [(ngModel)]="email" name="email" id="email">
           </ion-input>
         
         </ion-item>
@@ -18,21 +20,20 @@
       
         <ion-item>
           
-          <ion-input type="text" placeholder="הכנס פלאפון" [(ngModel)]="phoneNumber" name="phoneNumber" id="phoneNumber">
+          <ion-input type="text" class="input-login" placeholder="הכנס פלאפון" [(ngModel)]="phoneNumber" name="phoneNumber" id="phoneNumber">
          </ion-input>
        
         </ion-item>
       
     <ion-item id="btns" lines="none">
-        <ion-button color="primary" type="submit" (click)="logIn()" >login</ion-button>
+        <ion-button class="btn-green btn-login" color="primary" type="submit" (click)="logIn()" >כניסה</ion-button>
       </ion-item>
     </form>
-    <h2>Don't have an account?</h2>
-    <p>Lorem ipsum dolor sit amet</p>
-    <label id="label-login" for="log-login-show" routerLink='/register'>Register</label>
+    <div class="text-align-center"> <span>אין לך חשבון?&nbsp;</span>
+      <label class="link-label" id="label-login" for="log-login-show" routerLink='/register'>הרשם כאן!</label></div>
     </ion-list>
     </ion-content>
     <!-- <ion-router-outlet></ion-router-outlet> -->
     <!-- autocapitalize="off" autocomplete="off" autocorrect="off" -->
     
-</ion-content>
+
