@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>selectedServices</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    
+
+  <div *ngFor="let t of routeService.curentlyChosenDisplay; let i=index">
+    <ion-item *ngIf="t.length>1">
+<p *ngFor="let text of t"> {{text}} &nbsp;</p>
+  <ion-button (click)="removeService(i)">x</ion-button>
+
+    </ion-item>
+      </div>
+
+<ion-button routerLink="select-bussines">+</ion-button>
+</ion-content>

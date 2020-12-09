@@ -28,8 +28,9 @@ export class SelectBusinessComponent implements OnInit {
   categoryList:Category[]=[];
   allCategories: Category[] = [];
 
-  choosenBusinessId:number;
-   
+  choosenBusinessId:number=0;
+  selectBranch:boolean=false;
+
   constructor(private bussinessService:BusinessService,
     private categoryService:CategoryService,
     private serviseOfBusiness :ServiceOfBusinessService,
@@ -47,6 +48,7 @@ export class SelectBusinessComponent implements OnInit {
     this.bussinessService.getBusinessList(id)
     .subscribe((res)=>{this.businessList=res;
       this.allBussinesses=res;
+      this.choosenBusinessId=0;
     console.log('business',res)})
   }
 
@@ -57,12 +59,12 @@ export class SelectBusinessComponent implements OnInit {
     })
   }
 
-  loudService(id){
-    this.choosenBusinessId= id;
-    this.router.navigate(['/business-details',this.choosenBusinessId]);
+  // loudService(id){
+  //   this.choosenBusinessId= id;
+  //   this.router.navigate(['/business-details',this.choosenBusinessId]);
    
     
-  }
+  // }
 
   filterBussines(event)
   {
@@ -77,9 +79,14 @@ export class SelectBusinessComponent implements OnInit {
     )
   }
 
-  loudBranches(id) {
-    this.router.navigate(['/branch-list', id]);
+  loudBranches(bussiness, IsSelectBranch) {
+    //this.router.navigate(['/branch-list', id]);
+    this.selectBranch = IsSelectBranch;
+    this.choosenBusinessId=bussiness.id;
+    this.createRouteService.curentlyChosenDisplay[this.createRouteService.route.businessList.length][0]=bussiness.name;
   }
+
+  
 
 
 
