@@ -38,24 +38,11 @@
 <ion-grid>
 <ion-row>
  
-  <ion-col size="8">
-    <div>
-<ion-searchbar *ngIf="this.allBussinesses.length>0" placeholder="סנן עסק" (ionInput)="filterBussines($event)"></ion-searchbar>
-<ion-list lines="none">
-  <ion-item #b  id={{business.id}} *ngFor="let business of businessList" value="business"
-   >
-  <ion-button (click)="loudBranches(business,true)">בחר סניף מסוים</ion-button>
-  <ion-button (click)="loudBranches(business,false)">בחר שירות בכל סניף</ion-button>
-    {{business.name}}
-    <img height="100" width="150" [src]="business.image">
-  </ion-item>
-</ion-list>
-    </div>
-  </ion-col>
-  <ion-col size="4">
+  <ion-col size="12">
     <ion-searchbar placeholder="סנן קטגוריה" (ionInput)="filterCategories($event)"></ion-searchbar>
-
-    <div style="position:fixed">
+    <ion-row>
+        <ion-col size="4">
+           <div>
       <ion-list>
         <ion-item #ctg id={{category.id}} *ngFor="let category of categoryList" value="category" 
          (click)="loadBusinesses($event)">
@@ -64,9 +51,31 @@
     
       </ion-list>
 
+    </div>
+</ion-col>
+<ion-col size="8">
+ <div>
+<ion-searchbar class="p-0" *ngIf="this.allBussinesses.length>0" placeholder="סנן עסק" (ionInput)="filterBussines($event)"></ion-searchbar>
+<ion-list class="wrap-business" lines="none">
+  <div #b class="business-item"  id={{business.id}} *ngFor="let business of businessList" value="business">
+    <div>
+    <img [src]="business.image"></div> 
+   <div> {{business.name}}</div> 
+   <div>
+  <ion-button (click)="loudBranches(business,true)">בחר סניף מסוים</ion-button>
+  <ion-button (click)="loudBranches(business,false)">בחר שירות בכל סניף</ion-button>
+   </div>
+   
      <app-branch-list style="width: 100%" *ngIf="choosenBusinessId!=0" [businessId]="choosenBusinessId" [selectBranch]="selectBranch"></app-branch-list>
 
+  </div>
+</ion-list>
     </div>
+  </ion-col>
+
+    </ion-row>
+
+   
   </ion-col>
 </ion-row>
 </ion-grid>

@@ -34,12 +34,12 @@
   </ion-select>
 </ion-item> -->
   <div  *ngIf="selectBranch">
-        <ion-searchbar placeholder="סנן סניף" (ionInput)="filterBranches($event)"></ion-searchbar>
+        <ion-searchbar class="text-align-right" placeholder="סנן סניף" (ionInput)="filterBranches($event)"></ion-searchbar>
 
           <div>
            
             <ion-list lines="none">
-              <ion-item #b id={{branch.adress}} *ngFor="let branch of branchList" value="branch"
+              <ion-item #b id={{branch.adress}} class="f-s-14" *ngFor="let branch of branchList" value="branch"
                 (click)="loudService(branch)">
                 {{branch.adress}}
               </ion-item>

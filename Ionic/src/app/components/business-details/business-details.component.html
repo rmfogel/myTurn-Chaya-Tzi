@@ -1,11 +1,12 @@
-  <ion-list>
+  <ion-list class="business-list">
     <ion-item *ngFor="let service of serviceList " >
-      <ion-label>{{service.name}}</ion-label>
-<ion-checkbox
+     <ion-checkbox
   
          (click)="choose(service)" [value]="service.name">
  
-        </ion-checkbox>
+        </ion-checkbox> 
+        <ion-label>{{service.name}}</ion-label>
+
         </ion-item>
 </ion-list>
          <!-- <button (click)="goToResult()">סיים </button> -->
