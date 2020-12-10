@@ -19,9 +19,7 @@ import { BranchListComponent } from './components/branch-list/branch-list.compon
   declarations: [
     AppComponent,
  
-    SelectBusinessComponent,
-    BusinessDetailsComponent,
-    BranchListComponent
+    
     
   ],
   entryComponents: [],
@@ -41,6 +39,9 @@ import { BranchListComponent } from './components/branch-list/branch-list.compon
     StatusBar,
     SplashScreen,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
+  ],
+  exports:[
+    
   ],
   bootstrap: [AppComponent]
 })

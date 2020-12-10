@@ -40,13 +40,12 @@
  
   <ion-col size="8">
     <div>
-<p>iocons</p>
-<ion-searchbar placeholder="סנן עסק" (ionInput)="filterBussines($event)"></ion-searchbar>
+<ion-searchbar *ngIf="this.allBussinesses.length>0" placeholder="סנן עסק" (ionInput)="filterBussines($event)"></ion-searchbar>
 <ion-list lines="none">
   <ion-item #b  id={{business.id}} *ngFor="let business of businessList" value="business"
    >
-  <ion-button (click)="loudBranches(business.id)">בחר סניף מסוים</ion-button>
-  <ion-button (click)="loudService(business.id)">בחר שירות בכל סניף</ion-button>
+  <ion-button (click)="loudBranches(business,true)">בחר סניף מסוים</ion-button>
+  <ion-button (click)="loudBranches(business,false)">בחר שירות בכל סניף</ion-button>
     {{business.name}}
     <img height="100" width="150" [src]="business.image">
   </ion-item>
@@ -64,6 +63,9 @@
         </ion-item>
     
       </ion-list>
+
+     <app-branch-list style="width: 100%" *ngIf="choosenBusinessId!=0" [businessId]="choosenBusinessId" [selectBranch]="selectBranch"></app-branch-list>
+
     </div>
   </ion-col>
 </ion-row>

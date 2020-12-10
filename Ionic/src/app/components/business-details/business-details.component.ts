@@ -12,8 +12,9 @@ import { Result } from 'src/app/shared/models/result';
 })
 export class BusinessDetailsComponent implements OnInit {
 
-  businessId:number
-  branchId: number=0;
+  @Input()  businessId:number
+ @Input() branchId: number=0;
+ 
 
   serviceList:ServiceDto[];
   constructor( private serviseOfBusiness:ServiceOfBusinessService,
@@ -24,36 +25,36 @@ export class BusinessDetailsComponent implements OnInit {
    { }
 
   ngOnInit() {
-    this.route.params.subscribe(params => {
-      this.businessId = +params['id']; 
-      if (params['branchId']!=null)
-      this.branchId = +params['branchId'];
-    
       this.loadServices();
-  })}
+  }
 
 
   loadServices(){
     this.serviseOfBusiness.getServicesList(this.businessId,this.branchId).subscribe((res:ServiceDto[])=>{this.serviceList=res;console.log(this.serviceList);} );
   }
 
-  async choose(serviceId:number){
+  async choose(service){
  
-    if(this.createRouteService.route.businessList.indexOf(serviceId) > -1)
-    { const alert = await this.alertControler.create({
+    if(this.createRouteService.route.businessList.indexOf(service.id) > -1)
+    { 
+      this.createRouteService.curentlyChosenDisplay[this.createRouteService.route.businessList.length]= [];
+
+      const alert = await this.alertControler.create({
       header: "",
-      message: "!ניתן לבחור שרות אחד בלבד",
+      message: "!ניתן לבחור שרות פעם אחת בלבד",
       buttons: ["OK"],
       id:"alert"
     });
     await alert.present();
    }
   else{
-    debugger;this.createRouteService.route.businessList.push(serviceId);
+    debugger;this.createRouteService.route.businessList.push(service.id);
     console.log(this.createRouteService.route)
   }
   console.log(this.createRouteService.route)
+    this.createRouteService.curentlyChosenDisplay[this.createRouteService.route.businessList.length-1][2] = service.name;
 
+    this.router.navigate(['selected-services'])
   }
 
   goToResult()

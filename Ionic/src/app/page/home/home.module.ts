@@ -15,11 +15,13 @@ import {NgxLoadingModule, ngxLoadingAnimationTypes} from 'ngx-loading'
     FormsModule,
   
     IonicModule,
-    HomePageRoutingModule
+    HomePageRoutingModule,
+    
    
   ],
   declarations: [
     HomePage,
+    
     ]
 })
 export class HomePageModule {}

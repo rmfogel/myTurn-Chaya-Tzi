@@ -10,6 +10,8 @@ export class CreateRouteService {
 
     dictRoute:any;
     route:Route=new Route();
+    curentlyChosenDisplay=[[],[],[],[],[],[],[],[],[],[],[]]
+    index:number=0;
   constructor(private http:HttpClient) { }
 
   calcRoute(){

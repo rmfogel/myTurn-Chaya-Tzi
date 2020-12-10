@@ -33,12 +33,11 @@
     </ion-select-option>
   </ion-select>
 </ion-item> -->
-<ion-content [fullscreen]='true'>
-  <div>
-        <ion-searchbar placeholder="סנן קטגוריה" (ionInput)="filterBranches($event)"></ion-searchbar>
+  <div  *ngIf="selectBranch">
+        <ion-searchbar placeholder="סנן סניף" (ionInput)="filterBranches($event)"></ion-searchbar>
 
           <div>
-            <p>iocons</p>
+           
             <ion-list lines="none">
               <ion-item #b id={{branch.adress}} *ngFor="let branch of branchList" value="branch"
                 (click)="loudService(branch)">
@@ -48,6 +47,5 @@
           </div>
    
   </div>
-
-
-</ion-content>
+<app-business-details *ngIf="selectedBranch!=0||selectBranch==false"
+ [businessId]="businessId" [branchId]="selectedBranch"></app-business-details>

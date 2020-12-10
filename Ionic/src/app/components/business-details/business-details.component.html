@@ -1,11 +1,11 @@
-<ion-content [fullscreen]='true'>
-<ion-item
-  *ngFor="let service of serviceList " 
-         (click)="choose(service.id)">
-         {{service.name}}
+  <ion-list>
+    <ion-item *ngFor="let service of serviceList " >
+      <ion-label>{{service.name}}</ion-label>
+<ion-checkbox
+  
+         (click)="choose(service)" [value]="service.name">
  
-         </ion-item>
-         <button routerLink="/select-business">return</button>
-
-         <button (click)="goToResult()">סיים </button>
-</ion-content>
+        </ion-checkbox>
+        </ion-item>
+</ion-list>
+         <!-- <button (click)="goToResult()">סיים </button> -->
