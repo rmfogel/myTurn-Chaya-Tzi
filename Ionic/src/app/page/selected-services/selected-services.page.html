@@ -5,7 +5,8 @@
 </ion-header> -->
 
 <ion-content>
-<div class="main-wrap">
+<div class="main-wrap main-selected">
+  <div>
     <div class="header-page display-inline-block" >בחר בתי עסק</div>
     <a color="primary" class="plus-icon" routerLink="select-bussines"><ion-icon name="add-outline"></ion-icon></a>
 <ion-row class="w-100">
@@ -17,7 +18,8 @@
     </div>
   </ion-col>
 </ion-row>
-</div>
 
-<button (click)="goToResult()">חשב מסלול</button>
+</div>
+<ion-button class="btn-green" (click)="goToResult()"><ion-icon name="rocket-outline"></ion-icon>&nbsp; חשב מסלול </ion-button>
+</div>
 </ion-content>
