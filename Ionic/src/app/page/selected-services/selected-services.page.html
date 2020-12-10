@@ -8,14 +8,14 @@
 <div class="main-wrap">
     <div class="header-page display-inline-block" >בחר בתי עסק</div>
     <a color="primary" class="plus-icon" routerLink="select-bussines"><ion-icon name="add-outline"></ion-icon></a>
-
-  <div *ngFor="let t of routeService.curentlyChosenDisplay; let i=index">
+<ion-row class="w-100">
+  <ion-col size="6" *ngFor="let t of routeService.curentlyChosenDisplay; let i=index">
     <div class="selected-service-item" *ngIf="t.length>1">
-<p *ngFor="let text of t"> {{text}} &nbsp;</p>
-  <ion-button (click)="removeService(i)">x</ion-button>
-
+      <div class="wrap-p">
+     <p *ngFor="let text of t"> {{text}} &nbsp;</p></div>
+        <ion-icon (click)="removeService(i)" name="close-outline"></ion-icon>
     </div>
-      </div>
-
+  </ion-col>
+</ion-row>
 </div>
 </ion-content>

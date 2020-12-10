@@ -72,6 +72,17 @@ font-family: 'Rubik', sans-serif !important;}
     display: inline-block;
 }
 
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+
+.w-100{
+    width: 100%;
+}
+
 .btn-green{
   
     background-color: #00A69C;
@@ -179,7 +190,7 @@ a{
 
 .wrap-business{
     
-    height: calc(100vh - 180px);
+    height: calc(100vh -225px);
     overflow: auto;
 
 
@@ -207,6 +218,9 @@ ion-button{
     margin: auto;
     padding: 0;
     margin-top: 6px;
+    ion-item{
+        font-size: 14px;
+    }
 }
 
 .plus-icon{
@@ -220,8 +234,42 @@ ion-button{
 .selected-service-item{
     
     background-color: #EF8A44;
-    border-radius: 71px;
-    padding: 1px 37px;
-    font-size: 15px;
-    line-height: 12px;
+    border-radius: 45px;
+    padding: 7px 16px 7px 19px;
+    font-size: 14px;
+    line-height: 18px;
+    color: white;
+    font-weight: 300;    
+    height: 68px;
+    .wrap-p{
+vertical-align: middle;
+ 
+    p{
+    &:first-child{
+        font-weight: 500;
+    }
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0;
+    }  
+ }
+    ion-icon{        
+   
+        position: absolute;
+        top: 32px;
+        left: 12px;
+    }
+}
+.footer-toolbar{
+   
+    background-color: #000000;
+    --ion-color-base: #000000 !important;
+    font-size: 24px;
+    text-align: center;
+    padding: 4px 51px 0;
+
+    :focus {
+        outline:none;
+    }
 }

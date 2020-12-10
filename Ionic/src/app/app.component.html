@@ -30,9 +30,11 @@
   <ion-router-outlet></ion-router-outlet>
 </ion-content>
 <ion-footer>
-  <ion-toolbar>
-  <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/login">
-  <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/view-routes">
-  <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/create-route">  </ion-toolbar>
+  <ion-toolbar color="primary" class="footer-toolbar">
+      <ion-icon class="float-right" name="calendar-outline" routerLink="/login"></ion-icon>
+      <ion-icon name="location-outline" routerLink="/view-routes"></ion-icon>
+      <ion-icon class="float-left" name="map-outline" routerLink="/create-route"></ion-icon>
+
+   </ion-toolbar>
 </ion-footer>
 </ion-app>
