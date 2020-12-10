@@ -9,6 +9,7 @@ import { MapResultPageRoutingModule } from './map-result-routing.module';
 import { MapResultPage } from './map-result.page';
 import { AgmDirectionModule } from 'agm-direction'
 import { AgmCoreModule } from '@agm/core';
+import { TextResultComponent } from './text-result/text-result.component';
 @NgModule({
   imports: [
     CommonModule,
@@ -20,6 +21,6 @@ import { AgmCoreModule } from '@agm/core';
     }),
     AgmDirectionModule
   ],
-  declarations: [MapResultPage]
+  declarations: [MapResultPage,TextResultComponent]
 })
 export class MapResultPageModule {}

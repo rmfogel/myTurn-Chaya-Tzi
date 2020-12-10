@@ -35,7 +35,7 @@ namespace Bl.Calcs
             Result.Destination = new PointOnMap(Route.areaRange.destinationPoint);
             if (Result.GoodApointments.Count > 0)
             {
-                if (Result.GoodApointments[0].hour.HasValue)
+                if (Result.GoodApointments[0].hour!=null)
                 {
                     int before = Bl.Calcs.DistanceCalc.GooglePlacesDuration(route.areaRange.startingPoint, Result.GoodApointments[0].Address.formatedAddress, route.walkingBy);
 
@@ -43,7 +43,7 @@ namespace Bl.Calcs
                 }
                 for (int i = Result.GoodApointments.Count-1; i >= 0; i--)
                 {
-                    if(Result.GoodApointments[i].hour.HasValue)
+                    if(Result.GoodApointments[i].hour!=null)
                     {
                         int after = Bl.Calcs.DistanceCalc.GooglePlacesDuration(route.areaRange.destinationPoint, Result.GoodApointments[i].Address.formatedAddress, route.walkingBy);
                         Result.ActualEndTime = Result.GoodApointments[i].hour.Value.AddMinutes(after).TimeOfDay;

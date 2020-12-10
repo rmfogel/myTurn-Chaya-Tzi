@@ -5,6 +5,8 @@ import { PointOnMap } from 'src/app/shared/models/pointOnMap';
 import { Router, ActivatedRoute } from '@angular/router';
 import { AppointmentService } from 'src/app/shared/services/appointment.service';
 import { Appointment } from 'src/app/shared/models/appointment';
+import { ModalController } from '@ionic/angular';
+import { TextResultComponent } from './text-result/text-result.component';
 
 @Component({
   selector: 'app-map-result',
@@ -37,11 +39,23 @@ export class MapResultPage implements OnInit {
     },
   };
 
+  async presentModal() {
+    const modal = await this.modalController.create({
+      component: TextResultComponent,
+      cssClass: 'my-custom-class',
+      componentProps: {
+        'reult': this.reult,
+        'notRealAppointments':this.notRealAppointments
+      }
+    });
+    return await modal.present();
+  }
   
   waypoints = [];
   constructor(private appointmentService:AppointmentService,
     private route:ActivatedRoute,
-    private router:Router) { }
+    private router:Router,
+    public modalController: ModalController) { }
 
   ngOnInit() {
     this.route.params.subscribe(
@@ -88,9 +102,5 @@ export class MapResultPage implements OnInit {
     }
   }
 
-  deleteAppointment(id)
-  {
-    this.appointmentService.deleteAppointment(id).subscribe(res=>{
-    this.router.navigate(['map-result',JSON.stringify(res)])})
-  }
+  
 }

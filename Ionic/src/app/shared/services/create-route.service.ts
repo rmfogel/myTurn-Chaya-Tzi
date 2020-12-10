@@ -15,7 +15,7 @@ export class CreateRouteService {
   constructor(private http:HttpClient) { }
 
   calcRoute(){
-   
+   this.route= JSON.parse(localStorage.getItem('r'))
    console.log("this.route",this.route)
     return  this.http.post(`${environment.BASE_URL}/CalcRoute`,this.route)
       

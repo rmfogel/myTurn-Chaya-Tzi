@@ -10,33 +10,28 @@
        <ion-buttons slot="end">
          <ion-menu-button autoHide="false"></ion-menu-button>
          </ion-buttons>
-      <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/login">
-       <img src="../../../assets/icon/favicon.png"  height="30px"routerLink="/view-routes">
-       <img src="../../../assets/icon/favicon.png"  height="30px" routerLink="/create-route">
     </ion-toolbar>
 
   
-  <!-- <ion-menu side="start" menuId="first" contentId="main">
-    <ion-header>
-      <ion-toolbar color="primary">
-        <ion-title>מסלול</ion-title>
-      </ion-toolbar>
-    </ion-header>
-
+  <ion-menu side="start" menuId="first" contentId="main">
+   
     <ion-content>
-      [(ngModel)]="t.point" 
-
-      *ngFor="let t of PointForTrack.LisFortrack
-      <ion-list>
-        <ion-item >eeeee</ion-item>
-        <ion-item >eeeee</ion-item>
-      </ion-list>
+     
+        <ion-item expand="block" fill="outline" routerLink="/create-route">תכנן מסלול</ion-item>
+        <ion-item expand="block" fill="outline" routerLink="/view-routes">המסלולים שלי</ion-item>
+        <ion-item expand="block" fill="outline" routerLink="/selected-services">השירותים שבחרתי</ion-item>
     </ion-content>
-  </ion-menu> -->
+  </ion-menu> 
 
 
   <ion-router-outlet id="main"></ion-router-outlet>
 <ion-content>
   <ion-router-outlet></ion-router-outlet>
 </ion-content>
+<ion-footer>
+  <ion-toolbar>
+  <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/login">
+  <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/view-routes">
+  <img src="../../../assets/icon/favicon.png" height="30px" routerLink="/create-route">  </ion-toolbar>
+</ion-footer>
 </ion-app>

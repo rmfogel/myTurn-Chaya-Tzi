@@ -57,13 +57,7 @@ export class BusinessDetailsComponent implements OnInit {
     this.router.navigate(['selected-services'])
   }
 
-  goToResult()
-  {
-    this.createRouteService.calcRoute().subscribe((res: Result) => {
-      console.log("res", res);
-      this.router.navigate(["map-result",JSON.stringify(res)])
-    });
-  }
+ 
  
    
 
