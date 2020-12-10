@@ -26,6 +26,17 @@
 @import "~@ionic/angular/css/flex-utils.css";
 
 
+
+:root {
+    --ion-color-primary: #00A69C;
+    --ion-color-primary-rgb: 0,166,156;
+    --ion-color-primary-contrast: #ffffff;
+    --ion-color-primary-contrast-rgb: 255,255,255;
+    --ion-color-primary-shade: #0ea198;
+    --ion-color-primary-tint: #02bcb1;
+  }
+
+
 body{
     text-align: right;
     direction: rtl;
@@ -33,16 +44,29 @@ body{
 
 }
 
-*{
-font-family: 'Rubik', sans-serif;}
+*,ion-lable{
+font-family: 'Rubik', sans-serif !important;}
 
 .text-align-center{
     text-align: center;
 }
 
+.text-align-right{
+    text-align: right;
+}
+
+.border-none{
+    border:none;
+}
+.mt-33{
+    margin-top: 33px;
+}
+
 .btn-green{
   
     background-color: #00A69C;
+    --background: #00A69C;
+    --box-shadow: none;
     --ion-color-base: #00A69C !important;
     color: white;
     padding: 7px 6px 9px;
@@ -51,7 +75,15 @@ font-family: 'Rubik', sans-serif;}
     font-weight: 300;
     min-height: 34px;
     min-width: 104px;
+a{
+    background: transparent !important;
+    box-shadow: none;
 }
+}
+:host(.button-solid.ion-color) .button-native{
+    background: transparent;
+    box-shadow: none;
+   }
 
 .btn-login{
   
@@ -103,4 +135,34 @@ font-family: 'Rubik', sans-serif;}
 .link-label{
     text-decoration: underline;
     color:#EF8A44;
+}
+
+.header-page{
+  
+    font-size: 21px;
+    margin-top: 18px;
+    font-weight: 500;
+}
+
+.input-place{    
+    width: 100%;
+    padding-right: 88px;
+    padding-bottom: 10px;
+    font-weight: 300;
+    &:focus{
+     outline: none;
+    }
+}
+
+.btn-next{
+
+    margin-top: 30px;
+    display: block;
+    width: 142px;
+    text-align: left;
+    float: left;
+    height: 45px;
+}
+.logo-toolbar{
+    filter: brightness(0.5);
 }

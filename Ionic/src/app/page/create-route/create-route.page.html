@@ -1,12 +1,14 @@
 
 <ion-content [fullscreen]="true">
+  <div class="main-wrap">
   <ion-list>
+    <div class="header-page">צור מסלול</div>
    <form>
      <ion-grid>
  <ion-row>
    <ion-col>
-     <ion-item>
-       <ion-label>תאריך</ion-label>
+     <ion-item class="item-create">
+       <ion-label position="floating">תאריך</ion-label>
        <ion-datetime  type="ion-datetime"  display-format="MMM DD" picker-format="MMM DD" 
         [(ngModel)]="timeRange.Day" name="day"></ion-datetime>
      </ion-item>
@@ -33,22 +35,24 @@
    <ion-col>
      <ion-item>
        <ion-label position="floating">נקודת מוצא</ion-label>
-       <input ngx-google-places-autocomplete #placesRef="ngx-places"
+       <input class="border-none input-place" ngx-google-places-autocomplete #placesRef="ngx-places"
        (onAddressChange)="handlestartingPointChange($event)"  [(ngModel)]="areaRange.startingPoint" name="startingPoint" placeholder=""/>
      </ion-item>
    </ion-col>
+  </ion-row>
+  <ion-row>
    <ion-col>
      <ion-item>
        <ion-label position="floating">נקודת יעד</ion-label>
-       <input ngx-google-places-autocomplete #placesRef="ngx-places"
+       <input class="border-none input-place" ngx-google-places-autocomplete #placesRef="ngx-places"
        (onAddressChange)="handleDestinationPointChange($event)"  [(ngModel)]="areaRange.destinationPoint" name="destinationPoint" placeholder=""/>
      </ion-item>
    </ion-col>
  </ion-row>
  <ion-row>
    <ion-col>
-     <ion-item>
-       <ion-label>Walking By</ion-label>
+     <ion-item class="mt-33">
+       <ion-label>איך תלך?</ion-label>
        <ion-select value="car" [(ngModel)]="walkingBy" name="walkingBy"
      >
          <ion-select-option value="car">ברכב</ion-select-option>
@@ -63,10 +67,10 @@
      </ion-grid>
    </form>
   </ion-list>
-  <ion-item>
-   <ion-button (click)="saveDetails()" routerLink="/selected-services/select-bussines">המשך</ion-button>
+
+   <ion-button class="btn-green btn-next" (click)="saveDetails()" routerLink="/selected-services/select-bussines">המשך</ion-button>
    
- </ion-item>
-  
+ 
+  </div>
 </ion-content>
  
