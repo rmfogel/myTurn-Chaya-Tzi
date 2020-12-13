@@ -14,7 +14,7 @@ namespace Bl.BLModels
         {
             using (MyTurnEntities contex = new MyTurnEntities())
             {
-                return contex.Routes.Where(r => r.UserId == userId).ToList().Select(r =>
+                return contex.Routes.Where(r => r.UserId == userId&&r.Appointments.Count>0).ToList().Select(r =>
 
                     new RouteAppointmentsDto(r)
                     {

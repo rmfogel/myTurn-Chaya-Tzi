@@ -9,7 +9,7 @@
    <ion-col>
      <ion-item class="item-create">
        <ion-label position="floating">תאריך</ion-label>
-       <ion-datetime required   type="ion-datetime"  display-format="MMM DD" picker-format="MMM DD" 
+       <ion-datetime required  [min]="today()|date:'yyyy-MM-dd'" type="ion-datetime"  display-format="MMM DD" picker-format="MMM DD" 
         [(ngModel)]="route.timeRange.Day" name="day"></ion-datetime>
      </ion-item>
    </ion-col>
@@ -18,7 +18,7 @@
    <ion-col>
      <ion-item>
        <ion-label position="floating">משעה</ion-label>
-       <ion-datetime  type="ion-datetime"  display-format="h:mm A" picker-format="h:mm A"
+       <ion-datetime   type="ion-datetime"   display-format="h:mm A" picker-format="h:mm A"
         value="1990-02-19T07:43Z" [(ngModel)]="route.timeRange.StartingTime" name="startTime"></ion-datetime>
      </ion-item>
    </ion-col>

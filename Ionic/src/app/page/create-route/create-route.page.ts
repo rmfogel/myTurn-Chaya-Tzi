@@ -8,6 +8,7 @@ import { BusinessDto } from 'src/app/shared/models/business';
 import { Address } from 'ngx-google-places-autocomplete/objects/address';
 import { CreateRouteService } from 'src/app/shared/services/create-route.service';
 import { Route } from 'src/app/shared/models/route';
+import { formatDate } from '@angular/common';
 
 import { UserService } from 'src/app/shared/services/user.service';
 import { ChoosenBusinessDto } from 'src/app/shared/models/choosen-business';
@@ -40,10 +41,17 @@ export class CreateRoutePage implements OnInit {
     this.activeRoute.params.subscribe(
       p=>{
         if(p.route!=null)
+        {
         this.route=JSON.parse(p.route)
+        this.route.businessList=this.createRouteService.route.businessList;
+        }
         console.log(this.route)
       }
     )
+  }
+  today()
+  {
+    return  new Date();
   }
 
   saveDetails(){
