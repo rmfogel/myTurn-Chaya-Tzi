@@ -11,6 +11,7 @@ import { Route } from 'src/app/shared/models/route';
 
 import { UserService } from 'src/app/shared/services/user.service';
 import { ChoosenBusinessDto } from 'src/app/shared/models/choosen-business';
+import { ActivatedRoute } from '@angular/router';
 
 
 @Component({
@@ -20,33 +21,36 @@ import { ChoosenBusinessDto } from 'src/app/shared/models/choosen-business';
 })
 export class CreateRoutePage implements OnInit {
 
-  areaRange:AreaRange=new AreaRange();
-  timeRange:TimeRange=new TimeRange();
-  walkingBy:WalkingBy=WalkingBy.Car
   businessList:number[]=[]
   route:Route=new Route();
+  walkingBy:WalkingBy=WalkingBy.Car;
+  
 
   constructor(
     public modalController: ModalController,
     private bussinessService:BusinessService,
     private createRouteService:CreateRouteService,
     private userService:UserService,
+    private activeRoute:ActivatedRoute
     ) { }
 
-  ngOnInit() {}
+  ngOnInit() {
+    this.route.timeRange=new TimeRange();
+    this.route.areaRange=new AreaRange();
+    this.activeRoute.params.subscribe(
+      p=>{
+        if(p.route!=null)
+        this.route=JSON.parse(p.route)
+        console.log(this.route)
+      }
+    )
+  }
 
   saveDetails(){
-    console.log('this.areaRange.destinationPoint',this.areaRange.destinationPoint)
-    console.log('this.areaRange.startingPoint',this.areaRange.startingPoint)
-    console.log('this.timeRange.day',this.timeRange.Day)
-    console.log('this.timeRange.endTime',this.timeRange.EndTime)
-    console.log('this.timeRange.startTime',this.timeRange.StartingTime)
-    console.log('this.walkingBy',this.walkingBy)
+   
    
     this.route.UserId=this.userService.currentUser().id;
-    this.route.areaRange=this.areaRange;
-    this.route.timeRange=this.timeRange;
-    if(this.walkingBy=WalkingBy.Car)
+    if(this.walkingBy==WalkingBy.Car)
     this.route.walkingBy=1;
     else
     this.route.walkingBy=0;
@@ -70,14 +74,14 @@ export class CreateRoutePage implements OnInit {
    handleDestinationPointChange(destination:Address){
     
     console.log("destination; ",destination);
-    this.areaRange.destinationPoint=destination.formatted_address;
+     this.route.areaRange.destinationPoint=destination.formatted_address;
    
   }
 
   handlestartingPointChange(starting:Address){
     
     console.log("starting; ",starting);
-   this.areaRange.startingPoint=starting.formatted_address;
+    this.route.areaRange.startingPoint=starting.formatted_address;
   }
 
 

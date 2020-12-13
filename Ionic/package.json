@@ -29,6 +29,7 @@
     "@types/googlemaps": "^3.39.11",
     "agm-direction": "^0.8.8",
     "ionic4-auto-complete": "^2.9.4",
+    "moment": "^2.29.1",
     "ngx-google-places-autocomplete": "^2.0.4",
     "ngx-loading": "^8.0.0",
     "rxjs": "~6.5.1",

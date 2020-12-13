@@ -15,6 +15,5 @@ namespace Bl
         public int walkingBy { get; set; }
         public TimeRange timeRange { get; set; } = new TimeRange();
         public List<int> businessList { get; set; }
-        public List<int> MyProperty { get; set; }
     }
 }

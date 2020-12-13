@@ -7,13 +7,10 @@ import { AuthService } from './shared/services/auth.service';
 const routes: Routes = [
   {
     path: '',
-    loadChildren: () => import('./page/start/start.module').then( m => m.StartPageModule)
+    loadChildren: () => import('./page/login/login.module').then(m => m.LoginPageModule)
   },
  
-  {
-    path: 'home',
-    loadChildren: () => import('./page/home/home.module').then( m => m.HomePageModule)
-  },
+  
  
  
   
@@ -29,6 +26,10 @@ const routes: Routes = [
   {
     path: 'create-route', canActivate: [AuthService],
     loadChildren: () => import('./page/create-route/create-route.module').then( m => m.CreateRoutePageModule)
+  },
+  {
+    path: 'create-route/:route', canActivate: [AuthService],
+    loadChildren: () => import('./page/create-route/create-route.module').then(m => m.CreateRoutePageModule)
   },
   // {
   //   path: 'create-route',
