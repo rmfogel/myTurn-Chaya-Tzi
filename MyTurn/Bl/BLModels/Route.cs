@@ -9,7 +9,6 @@ namespace Bl
     public enum WalkingBy { Foot=1,Car=2}
    public class Route
     {
-
         public int UserId { get; set; }
         public AreaRange areaRange { get; set; }
             public int walkingBy { get; set; }

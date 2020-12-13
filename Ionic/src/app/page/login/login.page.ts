@@ -17,7 +17,8 @@ export class LoginPage implements OnInit {
   constructor( private router: Router,private UserService:UserService) { }
 
   ngOnInit() {
-
+    if (localStorage.getItem(environment.key)!=null)
+      this.router.navigate(['/view-routes'])
   }
 
   logIn() {
@@ -26,7 +27,7 @@ export class LoginPage implements OnInit {
         (res) => {
           console.log('resultLogin', res);
           localStorage.setItem(environment.key, JSON.stringify(res) );
-          this.router.navigate(['/home']);
+          this.router.navigate(['/create-route']);
         }, (err) => {
           console.log(err);
           this.router.navigate(['/register'])

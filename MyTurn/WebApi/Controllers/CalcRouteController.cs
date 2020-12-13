@@ -20,6 +20,11 @@ namespace WebApi.Controllers
         {
             try
             {
+                if(route.id!=0)
+                {
+                    return Ok(Bl.BLModels.RouteBL.UpdateRoute(route));
+
+                }
                 Bl.Route r = Bl.Converters.RouteConverter.ToRoute(route);
                 TurnResult res = Bl.Calcs.CalcRoute.Calc(r);
                 List<int> ids= Bl.BLModels.RouteBL.SaveRouteToDB(route,res);
