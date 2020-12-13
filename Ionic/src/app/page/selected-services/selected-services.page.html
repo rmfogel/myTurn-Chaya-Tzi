@@ -12,8 +12,8 @@
 <ion-row class="w-100">
   <ion-col size="6" *ngFor="let t of routeService.curentlyChosenDisplay; let i=index">
     <div class="selected-service-item" *ngIf="t.length>1">
-      <div class="wrap-p">
-     <p *ngFor="let text of t"> {{text}} &nbsp;</p></div>
+      <div class="wrap-p" *ngIf="">
+    <p *ngFor="let text of t"> {{text}} &nbsp;</p></div>
         <ion-icon (click)="removeService(i)" name="close-outline"></ion-icon>
     </div>
   </ion-col>
@@ -22,7 +22,7 @@
 </div>
 <ion-button class="btn-green" (click)="goToResult()"><ion-icon name="rocket-outline"></ion-icon>&nbsp; חשב מסלול </ion-button>
 </div>
-<div class="loading-img" style="display: none;">
+<div class="loading-img" *ngIf="loading">
   <div class="wrap-loading">
   <img class="loading-bg" src="../../../assets/img/loading-bg.jpg">
   <img class="loading-icon" src="../../../assets/img/loading-icon.png">
