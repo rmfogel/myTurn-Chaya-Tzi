@@ -45,8 +45,13 @@
            <div>
       <ion-list>
         <ion-item #ctg id={{category.id}} *ngFor="let category of categoryList" value="category" 
-         (click)="loadBusinesses($event)">
-       {{category.name}}
+        
+        >
+        <ion-checkbox (click)="loadBusinesses(category.id)" >
+        
+        </ion-checkbox>
+        <ion-label>{{category.name}}</ion-label>
+
         </ion-item>
     
       </ion-list>

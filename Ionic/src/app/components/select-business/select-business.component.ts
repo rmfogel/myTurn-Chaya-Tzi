@@ -40,9 +40,8 @@ export class SelectBusinessComponent implements OnInit {
   ngOnInit() {
     this.loudCategories()}
 
-  loadBusinesses(event){
+  loadBusinesses(id){
 
-    let id = event.target.id ;
    
     console.log('category.id',id)
     this.bussinessService.getBusinessList(id)
