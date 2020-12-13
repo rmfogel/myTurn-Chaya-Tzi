@@ -1,29 +1,33 @@
+
+<div class="list-div">
 <ion-header>
   <ion-toolbar>
-    <ion-title (click)="dismiss()">x</ion-title>
+      <ion-icon class="float-left" name="close-outline" (click)="dismiss()"></ion-icon>
+    
   </ion-toolbar>
 </ion-header>
 <ion-list *ngIf="reult.NoFree!=null&&reult.NoFree.length>0">
-  אין תורים פנויים בכל טווח השעות
-  <ion-item *ngFor="let r of reult.NoFree">{{r.Service.name}}
+  <div class="header-list">אין תורים פנויים בכל טווח השעות</div>
+  <div class="list-item" *ngFor="let r of reult.NoFree">{{r.Service.name}}
     <p *ngIf="r.hour!=null">התור הקרוב ביותר :
       {{getTimeString(r.hour)}}
     </p>
-  </ion-item>
+  </div>
 </ion-list>
 <ion-list *ngIf="reult.NotGoodRange!=null&&reult.NotGoodRange.length>0">
-  טווח השעות שבחרת אינו הגיוני עבור השירותים הבאים
-  <ion-item *ngFor="let r of reult.NotGoodRange">{{r.Service.name}}</ion-item>
+ <div class="header-list">טווח השעות שבחרת אינו הגיוני עבור השירותים הבאים:</div> 
+  <div class="list-item" *ngFor="let r of reult.NotGoodRange">{{r.Service.name}}</div>
 </ion-list>
 <ion-list *ngIf="reult.GoodApointments!=null&&reult.GoodApointments.length>0">
-  התורים שנקבעו עבורך
-  <ion-item *ngFor="let r of reult.GoodApointments">
+ <div class="header-list"> התורים שנקבעו עבורך:</div>
+  <div class="list-item" *ngFor="let r of reult.GoodApointments">
     <p>{{r.Service.name}} {{getTimeString(r.hour)}}</p>
     <ion-button (click)="deleteAppointment(r.id)">בטל תור</ion-button>
 
-  </ion-item>
+  </div>
 </ion-list>
 <ion-list *ngIf="notRealAppointments.length>0">
-  לא ניתן היה לקבוע מסלול שיכלול את השירותים הבאים
-  <ion-item *ngFor="let r of notRealAppointments">{{r.Service.name}}</ion-item>
+    <div class="header-list">  לא ניתן היה לקבוע מסלול שיכלול את השירותים הבאים:</div>
+  <div class="list-item" *ngFor="let r of notRealAppointments">{{r.Service.name}}</div>
 </ion-list>
+</div>
