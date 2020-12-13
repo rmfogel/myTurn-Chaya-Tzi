@@ -7,8 +7,9 @@
 <ion-content>
 <ion-item  *ngFor="let r of routes">
   {{r.Appointments[0].hour|date}}
-  <ion-button (click)="openMap(r)">לצפיה במסלול המלא</ion-button>
-    <ion-button (click)="updateRoute(r)">לעריכת פרטי המסלול</ion-button>
 
+  <div class="mr-auto">
+  <ion-button (click)="openMap(r)">לצפיה במסלול המלא</ion-button>
+  <ion-button (click)="updateRoute(r)">לעריכת פרטי המסלול</ion-button></div>
 </ion-item>
 </ion-content>
