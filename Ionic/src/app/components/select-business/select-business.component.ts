@@ -30,7 +30,7 @@ export class SelectBusinessComponent implements OnInit {
 
   choosenBusinessId:number=0;
   selectBranch:boolean=false;
-
+  choosenCategoryId: number = 0;
   constructor(private bussinessService:BusinessService,
     private categoryService:CategoryService,
     private serviseOfBusiness :ServiceOfBusinessService,
@@ -42,7 +42,7 @@ export class SelectBusinessComponent implements OnInit {
 
   loadBusinesses(id){
 
-   
+   this.choosenCategoryId=id;
     console.log('category.id',id)
     this.bussinessService.getBusinessList(id)
     .subscribe((res)=>{this.businessList=res;

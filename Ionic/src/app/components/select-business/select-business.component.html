@@ -47,7 +47,7 @@
         <ion-item #ctg id={{category.id}} *ngFor="let category of categoryList" value="category" 
         
         >
-        <ion-checkbox (click)="loadBusinesses(category.id)" >
+        <ion-checkbox [checked]="category.id==choosenCategoryId" (click)="loadBusinesses(category.id)" >
         
         </ion-checkbox>
         <ion-label>{{category.name}}</ion-label>

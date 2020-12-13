@@ -40,7 +40,7 @@
            
             <ion-list lines="none">
               <ion-item #b id={{branch.adress}} class="f-s-14" *ngFor="let branch of branchList" value="branch"
-                ><ion-checkbox (click)="loudService(branch)" >
+                ><ion-checkbox [checked]="branch.id==selectedBranch" (click)="loudService(branch)" >
                 
                 </ion-checkbox>
                 <ion-label>{{branch.adress}}</ion-label>
